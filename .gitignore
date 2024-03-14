@@ -1,2 +1,5 @@
 /.streamlit/secrets.toml
 /.idea
+./utility/__pycache__
+./utility/__pycache__/
+
